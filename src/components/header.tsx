@@ -13,8 +13,8 @@ export default function Header() {
   return (
     <Navbar className="shadow mb-6">
       <NavbarBrand>
-        <Link href="/" className="font-bold">
-          Discuss
+        <Link href="/" className="font-bold text-3xl text-blue-600">
+          Forum
         </Link>
       </NavbarBrand>
       <NavbarContent justify="center">
